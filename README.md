@@ -7,4 +7,6 @@ Repository for student project and assignments
 
 # stat_ml labs
 
-1.[sml_lab01](
+1.[sml_lab01](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab01.ipynb)
+
+2.[sml_lab02](
