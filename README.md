@@ -9,4 +9,4 @@ Repository for student project and assignments
 
 1.[sml_lab01](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab01.ipynb)
 
-2.[sml_lab02](
+2.[sml_lab02](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab02.ipynb)
