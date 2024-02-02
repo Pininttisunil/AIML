@@ -12,3 +12,5 @@ Repository for student project and assignments
 2.[sml_lab02](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab02.ipynb)
 
 3.[sml_lab03](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab03.ipynb)
+
+4.[sml_lab04a](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab04a.ipynb)
