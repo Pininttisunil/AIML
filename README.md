@@ -23,6 +23,8 @@ Repository for student project and assignments
 
 8.[sml_lab08](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab08.ipynb)
 
-9.[sml_lab09](
+9.[sml_lab09](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab09.ipynb)
+
+10.[sml_lab10](
 
 8.[sml_lab08](
