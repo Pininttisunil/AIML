@@ -19,4 +19,6 @@ Repository for student project and assignments
 
 6.[sml_lab06](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab06.ipynb)
 
-7.[sml_lab07](
+7.[sml_lab07](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab07.ipynb)
+
+8.[sml_lab08](
