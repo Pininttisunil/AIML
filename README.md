@@ -9,7 +9,7 @@ Repository for student project and assignments
 
 4.[AIML-lab_04](https://github.com/Pininttisunil/AIML/blob/main/Lab04.ipynb)
 
-5.[AIML-lab_05]
+5.[AIML-lab_05](https://github.com/Pininttisunil/AIML/blob/main/Lab05.ipynb)
 
 6[AIML-lab_06](https://github.com/Pininttisunil/AIML/blob/main/Lab6.ipynb)
 
