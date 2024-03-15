@@ -5,6 +5,14 @@ Repository for student project and assignments
 
 2.[Lab-02]
 
+3.[lab_03]
+
+4.[lab_04]
+
+5.[lab_05]
+
+6[lab_06]
+
 # stat_ml labs
 
 1.[sml_lab01](https://github.com/Pininttisunil/AIML/blob/main/StatMl%20Lab01.ipynb)
