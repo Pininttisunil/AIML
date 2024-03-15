@@ -3,15 +3,15 @@ Repository for student project and assignments
 # AIML LABS
 1.[Lab-01](https://github.com/Pininttisunil/AIML/blob/main/AIML-LAB-01.ipynb)
 
-2.[Lab-02]
+2.[AIML-Lab-02](https://github.com/Pininttisunil/AIML/blob/main/Lab02.ipynb)
 
-3.[lab_03]
+3.[AIML-lab_03]
 
-4.[lab_04]
+4.[AIML-lab_04]
 
-5.[lab_05]
+5.[AIML-lab_05]
 
-6[lab_06](https://github.com/Pininttisunil/AIML/blob/main/Lab6.ipynb)
+6[AIML-lab_06](https://github.com/Pininttisunil/AIML/blob/main/Lab6.ipynb)
 
 # stat_ml labs
 
