@@ -11,7 +11,7 @@ Repository for student project and assignments
 
 5.[lab_05]
 
-6[lab_06]
+6[lab_06](https://github.com/Pininttisunil/AIML/blob/main/Lab6.ipynb)
 
 # stat_ml labs
 
