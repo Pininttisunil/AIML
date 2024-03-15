@@ -1,11 +1,11 @@
 # AIML
 Repository for student project and assignments
 # AIML LABS
-1.[Lab-01](https://github.com/Pininttisunil/AIML/blob/main/AIML-LAB-01.ipynb)
+1.[AIML_Lab-01](https://github.com/Pininttisunil/AIML/blob/main/AIML-LAB-01.ipynb)
 
 2.[AIML-Lab-02](https://github.com/Pininttisunil/AIML/blob/main/Lab02.ipynb)
 
-3.[AIML-lab_03]
+3.[AIML-lab_03](https://github.com/Pininttisunil/AIML/blob/main/Lab03.ipynb)
 
 4.[AIML-lab_04]
 
