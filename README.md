@@ -15,6 +15,10 @@ Repository for student project and assignments
 
 7.[AIML-lab_07](https://github.com/Pininttisunil/AIML/blob/main/AIML_LAB-7.ipynb)
 
+8.[AIML-lab_08](https://github.com/Pininttisunil/AIML/blob/main/AIML_LAB-7.ipynb)
+
+9.[AIML-lab_09](https://github.com/Pininttisunil/AIML/blob/main/AIML_LAB-7.ipynb)
+
 
 # stat_ml labs
 
