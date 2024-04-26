@@ -19,7 +19,7 @@ Repository for student project and assignments
 
 9.[AIML-lab_09](https://github.com/Pininttisunil/AIML/blob/main/AIML_LAB-09.ipynb)
 
-10.[AIML-lab_10](https://github.com/Pininttisunil/AIML/blob/main/AIML_LAB-09.ipynb)
+10.[AIML-lab_10](https://github.com/Pininttisunil/AIML/blob/main/Lab10.ipynb)
 
 
 # AIML-PROJECT-2024
