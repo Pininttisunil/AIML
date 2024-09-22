@@ -23,7 +23,7 @@ Repository for student project and assignments
 
 
 # AIML-PROJECT-2024
-[AIML_PROJECT](https://github.com/Pininttisunil/AIML/blob/main/AIML_PROJECT%20(1).ipynb)
+[AIML_PROJECT](https://github.com/Pininttisunil/AIML/blob/main/AIML_PROJECT.ipynb)
 
 
 # stat_ml labs
